@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "clone-cdf20",
+    "staging": "clone-cdf20"
+  },
+  "targets": {},
+  "etags": {}
+}
